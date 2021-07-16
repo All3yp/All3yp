@@ -1,6 +1,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨, I'm Alley!  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 I develop iOS apps in Swift. I am a scholar in the Apple Developer Academy program at IFCE.<br>
+I am graduated on Network Security.
 I have experience in offensive and defensive information security.
 
 I work with: UIKit, SwiftUI, Core Data, CloudKit, File Manager, MapKit, Core Animation, Spritekit and others. I also work with Design UI and UX and have prototyped both in Sketch and Adobe XD and other tools.
