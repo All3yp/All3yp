@@ -7,7 +7,7 @@
 I am a scholar in the <b>Apple Developer Academy</b> program at IFCE and I'm currently working with lots of Apple frameworks including <b>UIKit, SwiftUI, CoreData, CloudKit, FileManager, MapKit, CoreAnimation, SpriteKit</b> and others. I've worked with <b>UI/UX Design</b> too and have built prototypes both in <b>Sketch, Adobe XD</b> and other tools.
 
 <a href="https://github.com/all3yp/github-readme-stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=all3yp&layout=compact&theme=nord&langs_count=10" min-width="400px" max-width="400px" width="400px" align="right">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=all3yp&layout=compact&theme=nord&langs_count=10" min-width="300px" max-width="300px" width="300px" align="right">
 </a>
 
 <b>I am passionate about solving problems and creating things with code, mostly using Swift.</b>
