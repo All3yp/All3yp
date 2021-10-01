@@ -2,7 +2,7 @@
  𝐇𝐞𝐥𝐥𝐨, I'm Alley!  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h2>
 
-<b>I am graduated on Network Security and I develop iOS Apps!</b>
+<b>I am graduated on Network Security and I develop iOS Apps!</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 
 I am a scholar in the <b>Apple Developer Academy</b> program at IFCE and I'm currently working with lots of Apple frameworks including <b>UIKit, SwiftUI, CoreData, CloudKit, FileManager, MapKit, CoreAnimation, SpriteKit</b> and others. I've worked with <b>UI/UX Design</b> too and have built prototypes both in <b>Sketch, Adobe XD</b> and other tools.
 
@@ -22,7 +22,7 @@ I speak <b>Spanish</b> fluently and I am currently working on my <b>English</b> 
 <br/>
 I have experience with <b>presentations in both Portuguese and English.</b>
 
-I'm a <b>Capture The Flag (CTF)</b> player in my free time too... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+I'm a <b>Capture The Flag (CTF)</b> player and skater in my free time too... 
 <br/>
 
 <a href="https://www.linkedin.com/in/halley-pereira/">
