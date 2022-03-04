@@ -7,7 +7,7 @@
 I am a scholar in the <b>Apple Developer Academy</b> program at IFCE and I'm currently working with lots of Apple frameworks including <b>UIKit, SwiftUI, CoreData, CloudKit, FileManager, MapKit, CoreAnimation, SpriteKit</b> and others. I've worked with <b>UI/UX Design</b> too and have built prototypes both in <b>Sketch, Adobe XD</b> and other tools.
 
 <a href="https://github-readme-stats.vercel.app/">
- <img src="https://github-readme-stats.vercel.app/api?username=all3yp&show_icons=true&title_color=fff&icon_color=FFCC00&text_color=9f9f9f&bg_color=151515" min-width="350px" max-width="350px" width="350px" align="right">
+ <img src="https://github-readme-stats.vercel.app/api?username=all3yp&show_icons=true&title_color=fff&icon_color=4476D7&text_color=9f9f9f&bg_color=151515" min-width="350px" max-width="350px" width="350px" align="right">
 </a>
 
 <!-- <a href="https://github.com/all3yp/github-readme-stats">
@@ -30,11 +30,11 @@ I'm a <b>Capture The Flag (CTF)</b> player and skater in my free time too...
 <br/>
 
 <a href="https://www.linkedin.com/in/halley-pereira/">
- <img src="https://img.shields.io/badge/LinkedIn-Alley-FFCC00"> 
+ <img src="https://img.shields.io/badge/LinkedIn-Alley-4476D7"> 
 <a/>
 <a href="https://medium.com/@alleypereira">
- <img src="https://img.shields.io/badge/medium-Alley-FFCC00"> 
+ <img src="https://img.shields.io/badge/medium-Alley-4476D7"> 
 <a/>
 <a href="https://www.hackthebox.eu/profile/63790">
- <img src="https://img.shields.io/badge/hackthebox-Alley-FFCC00"> 
+ <img src="https://img.shields.io/badge/hackthebox-Alley-4476D7"> 
 <a/> 
