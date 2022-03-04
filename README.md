@@ -30,11 +30,11 @@ I'm a <b>Capture The Flag (CTF)</b> player and skater in my free time too...
 <br/>
 
 <a href="https://www.linkedin.com/in/halley-pereira/">
- <img src="https://img.shields.io/badge/LinkedIn-Alley-blue"> 
+ <img src="https://img.shields.io/badge/LinkedIn-Alley-FFCC00"> 
 <a/>
 <a href="https://medium.com/@alleypereira">
- <img src="https://img.shields.io/badge/medium-Alley-9c88e3"> 
+ <img src="https://img.shields.io/badge/medium-Alley-FFCC00"> 
 <a/>
 <a href="https://www.hackthebox.eu/profile/63790">
- <img src="https://img.shields.io/badge/hackthebox-Alley-orange"> 
+ <img src="https://img.shields.io/badge/hackthebox-Alley-FFCC00"> 
 <a/> 
