@@ -2,7 +2,7 @@
  𝐇𝐞𝐥𝐥𝐨, I'm Alley!  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h2>
 
-<b>I am graduated on Network Security and I develop iOS Apps!</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+<b>I am graduated on Network Security and study the master of science computer disciplines as a special student on UFPE and also develop iOS Apps!</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 
 I am a scholar in the <b>Apple Developer Academy</b> program at IFCE and I'm currently working with lots of Apple frameworks including <b>UIKit, SwiftUI, CoreData, CloudKit, FileManager, MapKit, CoreAnimation, SpriteKit</b> and others. I've worked with <b>UI/UX Design</b> too and have built prototypes both in <b>Sketch, Adobe XD</b> and other tools.
 
