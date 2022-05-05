@@ -6,7 +6,7 @@
 
 I am a scholar in the <b>Apple Developer Academy</b> program at IFCE and I'm currently working with lots of Apple frameworks including <b>UIKit, SwiftUI, CoreData, CloudKit, FileManager, MapKit, CoreAnimation, SpriteKit</b> and others. I've worked with <b>UI/UX Design</b> too and have built prototypes both in <b>Sketch, Adobe XD</b> and other tools.
 
-I recently became a cadet at 42SP, one of the top 10 institutions in the world.
+I recently became a cadet at 42SP, one of the [top 10 institutions in the world](https://lnkd.in/dnbWAVg9).
 
 <a href="https://github-readme-stats.vercel.app/">
  <img src="https://github-readme-stats.vercel.app/api?username=all3yp&show_icons=true&title_color=fff&icon_color=4476D7&text_color=9f9f9f&bg_color=151515" min-width="350px" max-width="350px" width="350px" align="right">
