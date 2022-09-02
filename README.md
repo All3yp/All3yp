@@ -40,3 +40,6 @@ I'm a <b>Capture The Flag (CTF)</b> player and skater in my free time too...
 <a href="https://www.hackthebox.eu/profile/63790">
  <img src="https://img.shields.io/badge/hackthebox-Alley-4476D7"> 
 <a/> 
+<a href="https://www.hackerrank.com/AlleyPereira">
+ <img src="https://img.shields.io/badge/hackerrank-Alley-4476D7"> 
+<a/> 
