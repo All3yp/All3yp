@@ -18,7 +18,7 @@ I recently became a cadet at 42SP, one of the [top 10 institutions in the world]
 
 <b>I am passionate about solving problems and creating things with code, 
 <br/>
-mostly using Swift.</b>
+mostly using Swift (or C/C++).</b>
 
 Besides that,
 <br/>
