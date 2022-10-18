@@ -31,7 +31,7 @@ I have experience with <b>presentations in both Portuguese and English.</b>
 I'm a <b>Capture The Flag (CTF)</b> player and skater in my free time too... 
 <br/>
 
-<a href="https://www.linkedin.com/in/halley-pereira/">
+<a href="https://www.linkedin.com/in/alley-pereira/">
  <img src="https://img.shields.io/badge/LinkedIn-Alley-4476D7"> 
 <a/>
 <a href="https://medium.com/@alleypereira">
