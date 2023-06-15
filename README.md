@@ -4,9 +4,9 @@
 
 <b>I am graduated on Network Security and and I do a postgraduate degree (graduate school) in Software Engineering at [UEL](https://portal.uel.br/home/) and also develop iOS Apps!</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 
-I am a scholar in the <b>Apple Developer Academy</b> program at IFCE and I'm worked with lots of Apple frameworks including <b>UIKit, SwiftUI, CoreData, CloudKit, FileManager, MapKit, CoreAnimation, SpriteKit</b> and others. I've worked with <b>UI/UX Design</b> too and have built prototypes both in <b>Sketch, Adobe XD</b> and other tools.
+I am a scholar in the <b>Apple Developer Academy</b> program at IFCE and I'm worked with lots of Apple frameworks including <b>UIKit, SwiftUI, CoreData, CloudKit, FileManager, MapKit, CoreAnimation, SpriteKit</b> and others. However, I am currently back as a scholarship holder in their residency program. <b>I've worked with UI/UX Design</b> too and have built prototypes both in <b>Sketch, Adobe XD</b> and other tools.
 
-I also became a cadet at 42SP, one of the [top 10 institutions in the world](https://lnkd.in/dnbWAVg9).
+I also cadet alumni at 42SP, one of the [top 10 institutions in the world](https://lnkd.in/dnbWAVg9).
 
 <a href="https://github-readme-stats.vercel.app/">
  <img src="https://github-readme-stats.vercel.app/api?username=all3yp&show_icons=true&title_color=fff&icon_color=4476D7&text_color=9f9f9f&bg_color=151515" min-width="350px" max-width="350px" width="350px" align="right">
