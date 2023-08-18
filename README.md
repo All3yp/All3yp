@@ -21,7 +21,6 @@ I am a scholar in the <b>Apple Developer Academy</b> program at IFCE and I'm wor
 mostly using Swift (or C/C++).</b>
  -->
 Besides that,
-<br/>
 I also have experience in <b>offensive and defensive information security</b>.
 <br/>
 <!--I speak <b>Spanish</b> fluently and I am currently working on my <b>English</b> too.
