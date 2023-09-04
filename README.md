@@ -1,7 +1,22 @@
 <h2> 
- 𝐇𝐞𝐥𝐥𝐨, I'm Alley!  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+ 𝐇𝐞𝐥𝐥𝐨, I'm Alley! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
 </h2>
+<h3 align="center">Another <i> Coder Student</i> from Blue Planet <img src="https://github.com/All3yp/All3yp/assets/29764688/690ff4d9-53ee-4ed8-bdad-b66b360339cc" width="22" />  </h3>
 
+**<img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" /> RANDOM FACT**   
+()() isn't Palindrome!  <img src="https://github.com/All3yp/All3yp/assets/29764688/3c9b023e-05b4-4edf-b1b3-4485fda77b6b" width="22" /> 
+
+
+> [![Text](https://readme-typing-svg.herokuapp.com?font=Marvel&weight=1600&size=16&duration=3000&pause=30&color=247DA4&center=false&vCenter=false&width=500&lines=Quote+WILL+Change;World+WILL+Change;Learning+IS+the+ONLY+CONSTANT;Therefore%2C+STUDENT+forEver!)](https://git.io/typing-svg)
+<!-- https://readme-typing-svg.herokuapp.com/demo/ -->
+
+<details>
+  <summary><b>RANDOM QUOTE [Click to Read]</b></summary>
+  
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+</details>  
+
+<!--
 <b>I do a postgraduate degree (graduate school) in Software Engineering at [UEL](https://portal.uel.br/home/) and also develop iOS Apps!</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 
 I am a scholar in the <b>Apple Developer Academy</b> program at IFCE and I'm worked with lots of Apple frameworks</b>. However, I am currently back as a scholarship holder in their residency program. <b>I've worked with UI/UX Design</b> too and have built prototypes both in <b>Sketch, Adobe XD</b> and other tools.
@@ -19,7 +34,7 @@ I am a scholar in the <b>Apple Developer Academy</b> program at IFCE and I'm wor
 <b>I am passionate about solving problems and creating things with code, 
 <br/>
 mostly using Swift (or C/C++).</b>
- -->
+
 Besides that,
 I also have experience in <b>offensive and defensive information security</b>.
 <br/>
