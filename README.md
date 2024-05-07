@@ -1,10 +1,11 @@
 <h2> 
  𝐇𝐞𝐥𝐥𝐨, I'm Alley! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
 </h2>
-<h3 align="center">Another <i> Coder Student</i> from Blue Planet <img src="https://github.com/All3yp/All3yp/assets/29764688/690ff4d9-53ee-4ed8-bdad-b66b360339cc" width="22" />  </h3>
+<h3 align="center">Another <i> Coder </i> from Blue Planet <img src="https://github.com/All3yp/All3yp/assets/29764688/690ff4d9-53ee-4ed8-bdad-b66b360339cc" width="22" />  </h3>
 
-**<img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" /> RANDOM FACT**   
-()() isn't Palindrome!  <img src="https://github.com/All3yp/All3yp/assets/29764688/3c9b023e-05b4-4edf-b1b3-4485fda77b6b" width="22" /> 
+**<img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" /> FUN FACT**
+
+Did you know? The phrase "quick brown fox jumps over the lazy dog" contains every letter of the alphabet! 🦊🐶
 
 
 > [![Text](https://readme-typing-svg.herokuapp.com?font=Marvel&weight=1600&size=16&duration=3000&pause=30&color=247DA4&center=false&vCenter=false&width=500&lines=Quote+WILL+Change;World+WILL+Change;Learning+IS+the+ONLY+CONSTANT;Therefore%2C+STUDENT+forEver!)](https://git.io/typing-svg)
@@ -15,6 +16,10 @@
   
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 </details>  
+
+### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all3yp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 <b>I do a postgraduate degree (graduate school) in Software Engineering at [UEL](https://portal.uel.br/home/) and also develop iOS Apps!</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
