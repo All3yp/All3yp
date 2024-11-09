@@ -50,6 +50,8 @@ I have experience with <b>presentations in both Portuguese and English.</b>
 I'm a <b>Capture The Flag (CTF)</b> player and skater in my free time too... 
 <br/>-->
 
+[![My Skills](https://skillicons.dev/icons?i=apple,c,cpp,flutter,rust,py)](https://skillicons.dev)
+
 <a href="https://www.linkedin.com/in/alley-pereira/">
  <img src="https://img.shields.io/badge/LinkedIn-Alley-4476D7"> 
 <a/>
