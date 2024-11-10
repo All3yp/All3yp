@@ -7,15 +7,14 @@
 
 Did you know? The phrase "quick brown fox jumps over the lazy dog" contains every letter of the alphabet! 🦊🐶
 
-
-> [![Text](https://readme-typing-svg.herokuapp.com?font=Marvel&weight=1600&size=16&duration=3000&pause=30&color=247DA4&center=false&vCenter=false&width=500&lines=Quote+WILL+Change;World+WILL+Change;Learning+IS+the+ONLY+CONSTANT;Therefore%2C+STUDENT+forEver!)](https://git.io/typing-svg)
-<!-- https://readme-typing-svg.herokuapp.com/demo/ -->
+> [![Explore, exploit, evolve.](https://readme-typing-svg.herokuapp.com?font=Iosevka&size=20&color=00008B&left=true&width=410&height=45&lines=Explore,+exploit,+evolve.)](https://readme-typing-svg.herokuapp.com)
 
 <details>
   <summary><b>RANDOM QUOTE [Click to Read]</b></summary>
   
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
-</details>  
+</details>
+
 
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all3yp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
