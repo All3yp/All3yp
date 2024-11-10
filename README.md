@@ -19,34 +19,22 @@ Did you know? The phrase **"quick brown fox jumps over the lazy dog"** contains 
 
 ---
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alley-4476D7)](https://www.linkedin.com/in/alley-pereira/)
-[![Medium](https://img.shields.io/badge/Medium-Alley-4476D7)](https://medium.com/@alleypereira)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Alley-4476D7)](https://app.hackthebox.com/profile/63790)
-
----
-
-### 🚀 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all3yp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### ⚙️ Skills
-[![My Skills](https://skillicons.dev/icons?i=apple,c,cpp,flutter,rust,py)](https://skillicons.dev)
-
----
-
 ### 🌱 About Me
 
 I’m pursuing a postgraduate degree in **Software Engineering** at [UEL](https://portal.uel.br/home/), specializing in iOS app development. I'm also a part of the **Apple Developer Academy** at IFCE, where I work with a range of Apple frameworks.
 
 > I love solving problems and creating with code, particularly in **Swift** (or **C/C++**). I also have experience in **offensive and defensive information security** and enjoy participating in Capture The Flag (CTF) competitions.
 
----
+[![My Skills](https://skillicons.dev/icons?i=apple,c,cpp,flutter,rust,py)](https://skillicons.dev)
 
-<a href="https://github-readme-stats.vercel.app/">
- <img src="https://github-readme-stats.vercel.app/api?username=all3yp&show_icons=true&title_color=fff&icon_color=4476D7&text_color=9f9f9f&bg_color=151515" width="350px" align="right">
-</a>
-<a href="https://github.com/all3yp/github-readme-stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=all3yp&layout=compact&theme=nord&langs_count=10" width="350px" align="right">
-</a>
+
+| Top Languages | GitHub Stats |
+| --- | --- |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all3yp&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats) | ![Alley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=all3yp&show_icons=true&title_color=fff&icon_color=4476D7&text_color=9f9f9f&bg_color=151515) |
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alley-4476D7)](https://www.linkedin.com/in/alley-pereira/)
+[![Medium](https://img.shields.io/badge/Medium-Alley-4476D7)](https://medium.com/@alleypereira)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Alley-4476D7)](https://app.hackthebox.com/profile/63790)
+
+
