@@ -21,9 +21,8 @@ Did you know? The phrase **"quick brown fox jumps over the lazy dog"** contains 
 
 ### 🌱 About Me
 
-I’m pursuing a postgraduate degree in **Software Engineering** at [UEL](https://portal.uel.br/home/), specializing in iOS app development. I'm also a part of the **Apple Developer Academy** at IFCE, where I work with a range of Apple frameworks.
-
-> I love solving problems and creating with code, particularly in **Swift** (or **C/C++**). I also have experience in **offensive and defensive information security** and enjoy participating in Capture The Flag (CTF) competitions.
+I'm doing a master's degree in computer science on [IFCE - Institute Technology of Ceará - Brazil](https://ppgcc.ifce.edu.br/).</br>
+I learned iOS app development on the **Apple Developer Academy** and I learned a range of Apple frameworks, currently I'm no longer working as an iOS developer because I wanted to expand my area of ​​knowledge further like [purple team](https://www.crowdstrike.com/en-us/cybersecurity-101/advisory-services/purple-teaming/) on cybersecurity.</br>
 
 [![My Skills](https://skillicons.dev/icons?i=apple,c,cpp,flutter,rust,py)](https://skillicons.dev)
 
