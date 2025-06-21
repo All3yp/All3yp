@@ -24,7 +24,7 @@ Did you know? The phrase **"quick brown fox jumps over the lazy dog"** contains 
 ### 🌱 About Me
 
 I'm doing a master's degree in computer science on [IFCE - Institute Technology of Ceará - Brazil](https://ppgcc.ifce.edu.br/).</br>
-I learned iOS app development on the **Apple Developer Academy** and I learned a range of Apple frameworks, currently I'm no longer working as an iOS developer because I wanted to expand my area of ​​knowledge further like [purple team](https://www.crowdstrike.com/en-us/cybersecurity-101/advisory-services/purple-teaming/) on cybersecurity.</br>
+I learned iOS app development on the **Apple Developer Academy** and I learned a range of Apple frameworks, currently I'm no longer working as an iOS developer because I wanted to expand my area of ​​knowledge further like [purple team](https://www.crowdstrike.com/en-us/cybersecurity-101/advisory-services/purple-teaming/) on cybersecurity and it's that I'm doing in my job now.</br>
 
 [![My Skills](https://skillicons.dev/icons?i=apple,c,cpp,flutter,rust,py)](https://skillicons.dev)
 
